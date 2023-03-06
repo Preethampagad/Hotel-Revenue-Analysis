@@ -9,3 +9,5 @@
 findings.
 * Analyzed the data using metrics such as: Revenue by Hotel type over the years, required car parking space by
 month, Average daily rate, Total Revenue, Average Discount
+
+<iframe title="Hotel Data Analysis Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOWU5OWM1MmEtZmI4ZC00NGE1LWI3MzEtMDE0YTVkZmY4ODNkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></iframe>
