@@ -9,3 +9,5 @@
 * Hotel's revenue increased by 155.1% YOY and winter revenue saw an impressive average increase of 502.49% compared to summer, indicating a great opportunity for higher profits during colder months.
 * Resort hotels contribute to 83% of total revenue and require fewer parking spaces (average 191) compared to city hotels (average 843).
 * Summer months generally have a higher ADR of around $112.13 while winter months experience higher average discounts of approximately 26.94%, making it attractive for different types of travelers throughout the year.
+
+[Hotel-Revenue-Analysis Dashboard](https://www.novypro.com/project/powerbi-hotel-revenue-analysis)
